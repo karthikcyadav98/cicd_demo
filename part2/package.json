@@ -1,0 +1,21 @@
+{
+  "name": "part2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://thinlimbs@bitbucket.org/thinlimbs/cicddemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/thinlimbs/cicddemo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "description": ""
+}

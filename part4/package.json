@@ -1,0 +1,20 @@
+{
+  "name": "part4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://thinlimbs@bitbucket.org/thinlimbs/neci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/thinlimbs/neci#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
